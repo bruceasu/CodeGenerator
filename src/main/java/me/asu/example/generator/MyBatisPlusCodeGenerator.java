@@ -19,7 +19,7 @@ import java.util.Map;
 /**
  * Copyright(c) 2018
  *
- * @author Victor
+ * @author Suk
  * @since 2018/3/28.
  */
 public class MyBatisPlusCodeGenerator {

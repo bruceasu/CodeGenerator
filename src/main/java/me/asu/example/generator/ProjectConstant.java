@@ -2,7 +2,7 @@ package me.asu.example.generator;
 
 /**
  * 项目常量
- * @author victor
+ * @author suk
  */
 public final class ProjectConstant {
 
